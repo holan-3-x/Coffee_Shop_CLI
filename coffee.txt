@@ -1,0 +1,3 @@
+2	latte	2	25
+3	amirecano	1.1	80
+78	Kurdo	3.45	15
